@@ -83,7 +83,7 @@ export function SignUpForm({
                 />
               </div>
               <div className="grid gap-2">
-                <Label htmlFor="email">Display Name</Label>
+                <Label htmlFor="email">Full Name</Label>
                 <Input
                   id="displayname"
                   type="text"
